@@ -1,1 +1,3 @@
-print("Git is awesome")
+data = input(": ")
+print("\n")
+print(data)
