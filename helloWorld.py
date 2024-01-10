@@ -1,3 +1,3 @@
-username = input(": ")
+username = input("What is your name: ")
 print("\n")
 print(data)
